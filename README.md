@@ -28,6 +28,11 @@
     <img src="https://img.shields.io/badge/Json-grey?logo=json&logoColor=white" alt="Json Badge"/>
     <img src="https://img.shields.io/badge/Sonar-purple?logo=sonar&logoColor=white" alt="Sonar Badge"/>
   </p>
+
+  <div>
+    <p> :fire: Our Stats :fire: </p>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AxonAgent&theme=dark&hide_border=true&border_radius=5.4&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  </div>
 </div>
 
-<div>Resume</div>
+<div id="footer">Resume</div>
